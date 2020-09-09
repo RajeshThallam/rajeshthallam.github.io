@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2020-09-09T14:03:47Z",
+  "id": "gcp-bq-partitioning-and-clustering",
+  "duration": 0,
+  "title": "Partitioning and Clustering in BigQuery",
+  "authors": "rthallam",
+  "summary": "In this codelab, you will use the BigQuery web UI to understand partitioning and clustering in BigQuery",
+  "source": "1-RENgOmEwkDJq7UnijW8E89vptVAYcczE8BILHxUh10",
+  "theme": "cloud",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "Cloud"
+  ],
+  "tags": [
+    "web"
+  ],
+  "feedback": "https://goo.gl/pKnjbS",
+  "url": "gcp-bq-partitioning-and-clustering"
+}
